@@ -1,0 +1,10 @@
+Group hierarchy,Region,Service,Upfront,Monthly,First 12 months total,Currency,Configuration summary
+Increased_Cost_Estimate,US East (N. Virginia),Amazon Virtual Private Cloud (VPC),0,707.85,8494.2,USD,Number of NAT Gateways (1)
+Increased_Cost_Estimate,US East (N. Virginia),S3 Standard,0,398.5,4782,USD,S3 Standard storage (5000 GB per month)
+Increased_Cost_Estimate,US East (N. Virginia),Data Transfer,0,899.82,10797.84,USD,"Data Transfer, Data transfer cost (899.82)"
+Increased_Cost_Estimate,US East (N. Virginia),Amazon EC2,0,364.875,4378.5,USD,"Operating system (Linux), Storage for each EC2 instance (General Purpose SSD (gp2)), Storage amount (30 GB), Snapshot Frequency (2x Daily), Amount changed per snapshot (3 GB), Data Transfer, Data transfer cost (274.90999999999997), Advance EC2 instance (a1.medium), Pricing strategy (On-Demand)"
+Increased_Cost_Estimate,US East (N. Virginia),Amazon RDS for MySQL,0,17509.2,210110.4,USD,"Quantity (2), Storage for each RDS instance (General Purpose SSD (gp2)), Storage amount (1500 GB), Instance type (db.r5.12xlarge)"
+,,,,19880.245,238562.94,,
+,,,,,,,
+,,,,,,,
+"AWS Pricing Calculator provides only an estimate of your AWS fees and doesn't include any taxes that might apply. Your actual fees depend on a variety of factors, including your actual usage of AWS services.",,,,,,,
