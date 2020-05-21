@@ -1,6 +1,0 @@
-*.odt
-*.git
-*.tfstate
-*.backup
-Exercise_1/.terraform
-Exercise_2/.terraform
